@@ -148,8 +148,6 @@ export default function FixedBooks() {
                 >
                   {book.description}
                 </p>
-
-                Edit and Delete buttons
                 <div className="mt-4 flex space-x-4">
                   <button
                     className={`px-4 py-2 rounded text-white ${
